@@ -259,7 +259,7 @@
         "chat_description":"Bot ile sohbet edin!",
         "disallowed":"Üzgünüz, bu botu kullanmanıza izin verilmiyor. @SeraBotu kanalından destek alabilirsiniz.",
         "budget_limit":"Üzgünüz, kullanım limitinize ulaştınız",
-        "help_text":["Ben bir ChatGPT botuyum, konuş benimle!", "Bana bir sesli mesaj veya dosya gönderin, sizin için yazıya çevireyim", "Yardım veya bilgilendirmeler için : @SeraBotu"],
+        "help_text":["Ben bir ChatGPT botuyum, konuş benimle!", "Bana bir sesli mesaj veya dosya gönderin, sizin için yazıya çevireyim", "Yardım veya bilgilendirmeler için : @SeraBotu kanalından destek alabilirsiniz "],
         "stats_conversation":["Güncel sohbet", "sohbet mesajı", "sohbet token'i"],
         "usage_today":"Bugünkü kullanım",
         "usage_month":"Bu ayki kullanım",
