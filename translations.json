@@ -281,7 +281,7 @@
         "transcript":"Yazıya çevirilmiş hali",
         "answer":"Cevap",
         "transcribe_fail":"Sesin yazıya çevirilme işlemi yapılamadı",
-        "chat_fail":"Yanıt alınamadı",
+        "chat_fail":"Sanırım birşeyler yanlış gitti, direkt soruyu sormayı deneyebilirmisin veya biraz bekleyip tekrar denermisin? 🥺",
         "prompt":"Komut",
         "completion":"Tamamlama",
         "openai_rate_limit":"AI maksimum istek limiti aşıldı",
