@@ -291,7 +291,7 @@
         "chat_description":"Bot ile sohbet edin!",
         "disallowed":"Üzgünüz, bu botu kullanmanıza izin verilmiyor. @Scrable ile iletişime geçiniz.",
         "budget_limit":"Üzgünüz, kullanım limitinize ulaştınız",
-        "help_text":["Ben tamamen kendi fikilreri olan bir botum, konuş benimle!", "Bana bir sesli mesaj veya dosya gönderin, sizin için yazıya çevireyim", "Açık kaynak kodu: @scrable"],
+        "help_text":["Ben tamamen kendi fikilreri olan bir botum, konuş benimle!", "Bana bir sesli mesaj veya dosya gönderin, sizin için yazıya çevireyim", "Teknik Destek için : @scrable"],
         "stats_conversation":["Güncel sohbet", "sohbet mesajı", "sohbet token'i"],
         "usage_today":"Bugünkü kullanım",
         "usage_month":"Bu ayki kullanım",
